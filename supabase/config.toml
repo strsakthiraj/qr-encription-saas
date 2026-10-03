@@ -1,0 +1,8 @@
+[functions.resolve]
+verify_jwt = false
+[functions.stream]
+verify_jwt = false
+[functions.upload]
+verify_jwt = true
+[functions.create-token]
+verify_jwt = true
